@@ -16,4 +16,4 @@ Simple CSS styling without external libraries.
 
 HTML5 – for the structure of the form.
 CSS3 – for styling and layout design.
-Live demo(https://codingwithmahim.github.io/Html-css-Form/)
+Live demo (https://codingwithmahim.github.io/Html-css-Form/)
